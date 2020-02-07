@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<!--img class="overview-image" src=""-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+Our first task is to get our *toolchain* -- the set of programs that we'll be using to build and test our games and to manage our source code. After handling the basics we'll warm up by using GitHub Desktop to clone a version of Prototype 2 to review and debug.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 

@@ -4,11 +4,12 @@ layout: tabbed-assignment
 
 # Learning Targets
 
-By the end of this lesson, you will be able to:
+By the end of this lesson, you will have:
 
-* 
-* 
-* 
+* A folder called GitHub on your Desktop to hold the source code for your games.
+* The latest version of GitHub Desktop on your computer.
+* Visual Studio Code set as your *external script editor* in Unity.
+* The test project (a version of Prototype 2) clone from GitHub.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 

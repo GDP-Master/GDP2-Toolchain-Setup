@@ -7,9 +7,11 @@ layout: tabbed-assignment
 By the end of this lesson, you will have:
 
 * A folder called GitHub on your Desktop to hold the source code for your games.
-* The latest version of GitHub Desktop on your computer.
+* The latest version of **GitHub Desktop** on your computer.
 * Visual Studio Code set as your *external script editor* in Unity.
-* The test project (a version of Prototype 2) clone from GitHub.
+* The test project (a version of Prototype 2) *forked* to your account on GitHub.
+* The test project *cloned* to your computer.
+* The test project ready to open in **Unity Hub**.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
